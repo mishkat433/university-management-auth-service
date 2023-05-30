@@ -9,16 +9,15 @@
     "lint:fix": "eslint . --fix",
     "prettier:Check": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|json)\"",
     "lint-prettier": "yarn lint:check && yarn prettier:Check",
-    "prettier:fix":"prettier --write .",
+    "prettier:fix": "prettier --write .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
- "lint-staged":{
-  "src/**/*.ts":"yarn lint-prettier"
- },
-
+  "lint-staged": {
+    "src/**/*.ts": "yarn lint-prettier"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.59.7",
     "@typescript-eslint/parser": "^5.59.7",
