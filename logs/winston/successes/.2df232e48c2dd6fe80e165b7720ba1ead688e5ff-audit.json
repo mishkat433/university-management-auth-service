@@ -54,6 +54,26 @@
             "date": 1686148268617,
             "name": "E:\\Programming Hero\\Level-2\\University-management-auth-service\\logs\\winston\\successes\\U-management20-07-06-2023-success.log",
             "hash": "a10246c76395fc98f434cde4ed0873d02d1d0308dc2de48603eddd9e34694e4b"
+        },
+        {
+            "date": 1686151236750,
+            "name": "E:\\Programming Hero\\Level-2\\University-management-auth-service\\logs\\winston\\successes\\U-management21-07-06-2023-success.log",
+            "hash": "e4058ef5c36bf2e6a2b7f2dcb57ce9ed4719954c199fdbd72429afc4d7830113"
+        },
+        {
+            "date": 1686155431492,
+            "name": "E:\\Programming Hero\\Level-2\\University-management-auth-service\\logs\\winston\\successes\\U-management22-07-06-2023-success.log",
+            "hash": "01bf9e59de83f38e8b59eca93968125529c7ffd658c7c78ecb8e6e7931aa2e10"
+        },
+        {
+            "date": 1686327343918,
+            "name": "E:\\Programming Hero\\Level-2\\University-management-auth-service\\logs\\winston\\successes\\U-management22-09-06-2023-success.log",
+            "hash": "f85d8116220f42aafd617eb5f52fad62de7a3fd374c0aa9584d3352aa81db4bf"
+        },
+        {
+            "date": 1686330010725,
+            "name": "E:\\Programming Hero\\Level-2\\University-management-auth-service\\logs\\winston\\successes\\U-management23-09-06-2023-success.log",
+            "hash": "06bd6fde89d9aee27c38433b6f9a9c567fe72f5e8eb608a70061484a1a069f92"
         }
     ],
     "hashType": "sha256"
