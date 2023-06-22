@@ -1,0 +1,7 @@
+{
+  statusCode: 400,
+  level: 'error',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-09T17:56:37.269Z'
+}

@@ -4,7 +4,7 @@ import config from './config/index';
 import { logger, errorLogger } from './share/logger';
 import { Server } from 'http';
 
-process.on('uncaughtException', (error) => {
+process.on('uncaughtException', error => {
   errorLogger.error(error);
   process.exit(1);
 });
@@ -23,7 +23,7 @@ async function bootstrap() {
     errorLogger.error('Failed to connect database', err);
   }
 
-  process.on('unhandledRejection', (error) => {
+  process.on('unhandledRejection', error => {
     if (server) {
       server.close(() => {
         errorLogger.error(error);

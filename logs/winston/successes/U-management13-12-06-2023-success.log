@@ -1,0 +1,210 @@
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:19:09.080Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:19:09.102Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:23:15.944Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:23:15.969Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:23:28.564Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:23:28.602Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:26:05.025Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:26:05.040Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:28:05.865Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:28:05.886Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:28:36.371Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:28:36.394Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:30:02.191Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:30:02.210Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:35:02.221Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:35:02.247Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:35:34.566Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:35:34.593Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:40:15.361Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:40:15.380Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:43:01.865Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:43:01.893Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:44:39.141Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:44:39.165Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:45:32.189Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:45:32.225Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:47:09.264Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:47:09.299Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:51:43.528Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-12T07:51:43.544Z'
+}

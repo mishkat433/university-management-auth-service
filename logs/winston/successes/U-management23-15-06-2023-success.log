@@ -1,0 +1,154 @@
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:38:44.869Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:38:44.890Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:39:56.079Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:39:56.092Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:41:25.502Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:41:25.514Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:42:27.235Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:42:27.246Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:43:29.636Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:43:29.648Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:44:25.636Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:44:25.647Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:45:12.366Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:45:12.380Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:45:43.736Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:45:43.753Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:46:27.238Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:46:27.247Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:46:46.997Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:46:47.010Z'
+}
+{
+  message: 'Database connection successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:47:21.343Z'
+}
+{
+  message: 'Server is running at http://localhost:5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'university-management-clint',
+  timestamp: '2023-06-15T17:47:21.362Z'
+}
