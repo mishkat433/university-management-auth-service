@@ -10,11 +10,11 @@ const moduleRoutes = [
     route: UserRoutes,
   },
   {
-    path: '/academic-Semesters',
+    path: '/academic-semesters',
     route: useSemesterRoutes,
   },
 ];
 
-moduleRoutes.forEach((route) => router.use(route.path, route.route));
+moduleRoutes.forEach(route => router.use(route.path, route.route));
 
 export default router;
